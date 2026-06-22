@@ -1,6 +1,6 @@
 # 🌙 Moon Club
 
-![Moon Club Homepage](img/moon-club-preview.png)
+![Moon Club Homepage](img/moon.png)
 
 My first web development project, yay!
 
