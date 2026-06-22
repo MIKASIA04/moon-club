@@ -1,5 +1,6 @@
-#🌙 Moon Club
-![Moon Club Homepage](images/moon-club-preview.png)
+##🌙 Moon Club
+
+![Moon Club Homepage] (images/moon-club-preview.png)
 
 My first web development project, yay!
 
@@ -14,7 +15,7 @@ The website includes a landing banner, responsive navigation, moon imagery, and 
 -Flexbox
 -Media Queries
 -Responsive Design
--What I learned
+
 
 
 ## What I Learned:
